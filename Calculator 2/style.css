@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: roboto;
+    background-color: black;
+}
+button{
+    padding: 20px;
+    margin: 3px;
+    border:1px solid black;
+    border-radius: 100%;
+    cursor: pointer;
+    width: 66px;
+    background-color: #313131;
+    color: #F8F8F8;
+}
+.row{
+    margin: 8px 0;
+
+}
+.row input{
+    width: 283px;
+    margin: 0;
+    padding: 5px ;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 19px;
+}
+#orange{
+    background-color: #F69906;
+}
+.top3{
+    background-color: #9F9F9F;
+}
+#zero{
+    width:px;
+}
